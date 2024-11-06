@@ -1,0 +1,41 @@
+# Fichiers générés par Maven
+target/
+
+# Fichiers générés par l'exécution du code
+*.class
+
+# Fichiers générés par les outils de build
+*.jar
+*.war
+*.ear
+
+# Fichiers de configuration Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Fichiers générés par Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/*
+
+# Fichiers de configuration spécifiques à l'utilisateur
+.mvn/timing.properties
+
+# Fichiers d'ID de session
+.idea/
+
+# Fichiers de logs
+log/
+*.log
+
+# Fichiers de sauvegarde
+*~
+
+# Eclipse Core
+.project
+# JDT-specific (Eclipse Java Development Tools)
+.classpath
